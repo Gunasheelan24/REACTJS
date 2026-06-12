@@ -6,7 +6,7 @@ import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useContext } from "react";
 import { Cookies, useCookies } from "react-cookie";
-import Store from "../../context/createStore";
+import Store from "../../context/createStore"; 
 import { useState } from "react";
 
 const Login = () => {
