@@ -3,7 +3,7 @@ import { FcGoogle } from "react-icons/fc";
 import { Formik, Form, Field } from "formik";
 import * as yup from "yup";
 import { Link, useNavigate } from "react-router-dom";
-import axios from "axios";
+import axios from "axios"; 
 import { useContext } from "react";
 import { Cookies, useCookies } from "react-cookie";
 import Store from "../../context/createStore"; 
