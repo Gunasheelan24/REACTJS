@@ -1,6 +1,6 @@
-import React from "react";
-import { PiPinterestLogoDuotone } from "react-icons/pi";
-import { Link } from "react-router-dom";
+import React from "react"; 
+import { PiPinterestLogoDuotone } from "react-icons/pi"; 
+import { Link } from "react-router-dom"; 
 const Success = () => {
   return (
     <>
